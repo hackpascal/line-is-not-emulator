@@ -1,0 +1,1 @@
+not CoLinux, not cygwin, run linux software by implement the int 80 system call in windows
